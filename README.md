@@ -1,4 +1,4 @@
-# [IPPL MatchDay 360]
+# [IPL MatchDay 360]
 
 > **Student note:** Start with `00_START_HERE.md` and `00_TEMPLATE_INDEX.md`. The placeholder files inside this repo are the templates.
 
