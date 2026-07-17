@@ -1,15 +1,15 @@
-# Week 01 Log — [Sprint Name]
+# Week 01 Log — [First Week]
 
 **Week:** 1  
-**Date range:** [Add dates]  
-**Team:** [Team name / number]  
-**Project:** [Project title]
+**Date range:** [10-07-2026 to 17-07-2026]  
+**Team:** [IPL Matchday 360 /Team01]  
+**Project:** [IPL MatchDay 360]
 
 ---
 
 ## 1. Sprint Goal
 
-Write the goal for this week in 2–3 lines.
+For week 1,we created a github repository for our project added all the necessary files.We created a README file and made all the necessary commits
 
 ---
 
@@ -17,7 +17,7 @@ Write the goal for this week in 2–3 lines.
 
 | Task | Owner | Status | Evidence |
 |---|---|---|---|
-| [Task] | [Student] | [Done / In progress] | [file / screenshot / notebook] |
+| [created a new repo for the project] | [Mounika Punna] | [Done] | [file / screenshot / notebook] |
 
 ---
 
