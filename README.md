@@ -7,7 +7,7 @@
 **Track:** Data Engineering  
 **Duration:** 12 Weeks  
 **Team:** [Team 01 / ]  
-**Students:** [Mounika Punna], [Pallavi Nawander], [Vuyyuru Gayathri]  
+**Students:** [Mounika Punna], [Pallavi Nawander], [Talari DhanaLaxmi]  
 **AI Teammate:** Used responsibly for explanation, debugging, review, and documentation support.
 
 ---
