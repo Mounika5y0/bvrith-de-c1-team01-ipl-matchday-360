@@ -50,8 +50,9 @@ Profile the IPL MatchDay 360 datasets by loading the source files into Databrick
 
 - Updated `weekly_logs/week03_log.md`
 - Added `01_Data_Profiling_SQL.ipynb`
-- Added Week 3 notebook screenshots
-- Updated project progress
+- <img width="1905" height="1025" alt="Screenshot 2026-07-30 225444" src="https://github.com/user-attachments/assets/ffb4da1a-15f4-4c10-a711-505e36425a0a" />
+
+<img width="1887" height="982" alt="Screenshot 2026-07-30 225523" src="https://github.com/user-attachments/assets/0fac8023-1aac-46ef-99a8-2bc4e2be8ad4" />
 
 ---
 
