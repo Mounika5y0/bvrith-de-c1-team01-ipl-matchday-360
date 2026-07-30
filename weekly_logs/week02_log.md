@@ -33,7 +33,7 @@ Set up the Databricks environment and initialize the IPL MatchDay 360 project by
 | Blocker | Impact | Help Needed |
 |---|---|---|
 
-[Initial understanding of Databricks environment and project workflow]|[ Took additional time to become familiar with the platform and project structure] | [Reviewed the project PPT and documentation to understand the workflow] |
+|[Initial understanding of Databricks environment and project workflow]|[ Took additional time to become familiar with the platform and project structure] | [Reviewed the project PPT and documentation to understand the workflow] |
 
 ---
 
