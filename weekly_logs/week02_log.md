@@ -16,13 +16,11 @@ Set up the Databricks environment and initialize the IPL MatchDay 360 project by
 
 | Task | Owner | Status | Evidence |
 |---|---|---|---|
-| [Studied the IPL MatchDay 360 project presentation and understood the project objectives, architecture, datasets, sprint plan, and implementation roadmap. Reviewed the project workflow and prepared for the Databricks environment setup and data profiling activities in the following sprint.] | [Mounika Punna] | [Done ] | [] |
+| Studied the IPL MatchDay 360 project presentation and understood the project objectives, architecture, datasets, sprint plan, and implementation roadmap. Reviewed the project workflow and prepared for the Databricks environment setup and data profiling activities in the following sprint. | Mounika Punna | Done  | [] |
 
 ---
 
 ## 3. Key Decisions
-
-- [
 
 - Selected Databricks as the primary platform for project implementation.
 - Decided to follow the sprint-based project roadmap and use Unity Catalog with a structured workspace for data management.]
@@ -35,7 +33,7 @@ Set up the Databricks environment and initialize the IPL MatchDay 360 project by
 | Blocker | Impact | Help Needed |
 |---|---|---|
 
-|[Initial understanding of Databricks environment and project workflow] | [	Took additional time to become familiar with the platform and project structure	]|Reviewed the project PPT and documentation to understand the workflow
+| Initial understanding of Databricks environment and project workflow | Took additional time to become familiar with the platform and project structure | Reviewed the project PPT and documentation to understand the workflow |
 
 ---
 
