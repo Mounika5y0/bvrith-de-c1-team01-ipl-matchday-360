@@ -1,7 +1,7 @@
 # Week 03 Log — [Third week]
 
 **Week:** 3  
-**Date range:** [25-07-2026 to 31-07-2026]  
+**Date range:** [24-07-2026 to 30-07-2026]  
 **Team:** [IPL MatchDay 360 / Team 01]  
 **Project:** [IPL MatchDay 360]
 
