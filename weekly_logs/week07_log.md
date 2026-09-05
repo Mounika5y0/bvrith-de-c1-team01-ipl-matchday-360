@@ -1,9 +1,9 @@
 # Week 07 Log — Gold Layer, KPI Contracts and Reconciliation
 
 **Week:** 7
-**Date range:** [Add your actual Week 7 dates]
-**Team:** BVRITH DE C1 Team 01
-**Project:** IPL MatchDay 360
+**Date range:** [05-08-2026]
+**Team:** [IPL-MatchDay-360-team-01]
+**Project:** [IPL MatchDay 360]
 
 ---
 
@@ -134,7 +134,12 @@ quarantined delivery records were intentionally excluded.
 - `docs/gold_metrics_definition.md`
 - `docs/data_quality_summary.md`
 - `weekly_logs/week07_log.md`
-- Gold validation screenshots
+- <img width="506" height="247" alt="Screenshot 2026-09-05 152536" src="https://github.com/user-attachments/assets/45e79942-82c3-4492-a3d4-57d9c8273bd9" />
+<img width="747" height="475" alt="Screenshot 2026-09-05 141710" src="https://github.com/user-attachments/assets/3d4b9bf9-02a9-44e3-8352-ed84f02b2e73" />
+<img width="423" height="176" alt="Screenshot 2026-09-05 150052" src="https://github.com/user-attachments/assets/a58b8599-a6ab-49bb-a7d2-9201ee14fee8" />
+
+
+
 - Final Week 7 validation output
 
 ### Final Validation
