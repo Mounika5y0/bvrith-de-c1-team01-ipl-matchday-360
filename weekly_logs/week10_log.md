@@ -67,6 +67,12 @@ Implement and validate the controlled live-ball streaming pipeline using the pre
 - 
 <img width="1872" height="1030" alt="Screenshot 2026-10-07 204943" src="https://github.com/user-attachments/assets/f07a5e14-cbe9-498b-931c-68bf76b67a2c" />
 <img width="1919" height="967" alt="Screenshot 2026-10-07 204715" src="https://github.com/user-attachments/assets/88b9dc6c-be23-40f1-97ee-e9949c3b84f9" />
+<img width="1120" height="697" alt="Screenshot 2026-10-07 205411" src="https://github.com/user-attachments/assets/926b2b5f-a850-4cc0-9e30-bff69605d01f" />
+<img width="1631" height="805" alt="Screenshot 2026-10-07 205406" src="https://github.com/user-attachments/assets/df28a935-cfec-49f5-8be9-64393c27104f" />
+
+<img width="1919" height="970" alt="Screenshot 2026-10-07 205218" src="https://github.com/user-attachments/assets/19056bb0-ca2b-4302-adc9-507b6a49d9db" />
+
+<img width="1908" height="1035" alt="Screenshot 2026-10-07 205032" src="https://github.com/user-attachments/assets/b7f0fad6-282b-49b7-81ad-bbe82e6f6a1e" /><img width="1917" height="986" alt="Screenshot 2026-10-07 205128" src="https://github.com/user-attachments/assets/69c77e0b-6956-42c4-bb74-a51eac8e8a2a" />
 
 
 ## 6. AI Transparency Note
