@@ -64,6 +64,9 @@ Implement and validate the controlled live-ball streaming pipeline using the pre
 - `streaming/structured_streaming_design.md`
 - `docs/data_quality_summary.md`
 - `weekly_logs/week10_log.md`
+- 
+<img width="1872" height="1030" alt="Screenshot 2026-10-07 204943" src="https://github.com/user-attachments/assets/f07a5e14-cbe9-498b-931c-68bf76b67a2c" />
+<img width="1919" height="967" alt="Screenshot 2026-10-07 204715" src="https://github.com/user-attachments/assets/88b9dc6c-be23-40f1-97ee-e9949c3b84f9" />
 
 
 ## 6. AI Transparency Note
