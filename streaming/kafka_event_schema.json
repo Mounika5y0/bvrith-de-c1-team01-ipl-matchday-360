@@ -1,27 +1,31 @@
 {
-  "topic_name": "project.events",
+  "topic_name": "ipl.live_ball_events",
   "implementation_status": "design_only_not_mandatory",
-  "description": "Kafka-style event design for production architecture awareness. Kafka implementation is not required for this internship.",
+  "description": "Kafka-style event design for IPL live ball-by-ball events. Kafka implementation is not required for this internship.",
   "key": {
     "field": "event_id",
     "type": "string"
   },
   "value_schema": {
     "event_id": "string",
-    "event_timestamp": "timestamp",
+    "event_ts": "timestamp",
+    "schema_version": "string",
+    "match_id": "string",
+    "innings_no": "integer",
+    "over_no": "integer",
+    "ball_seq": "integer",
     "event_type": "string",
-    "entity_id": "string",
-    "severity": "string",
-    "payload": "object"
-  },
-  "sample_event": {
-    "event_id": "EVT-001",
-    "event_timestamp": "2026-07-03T18:00:00+05:30",
-    "event_type": "alert",
-    "entity_id": "ENT-0001",
-    "severity": "medium",
-    "payload": {
-      "message": "Sample event"
-    }
+    "batting_team_id": "string",
+    "bowling_team_id": "string",
+    "batter_id": "string",
+    "non_striker_id": "string",
+    "bowler_id": "string",
+    "runs_batter": "integer",
+    "runs_extras": "integer",
+    "total_runs": "integer",
+    "wicket_flag": "boolean",
+    "dismissed_player_id": "string",
+    "source_delivery_id": "string",
+    "event_sequence": "integer"
   }
 }
